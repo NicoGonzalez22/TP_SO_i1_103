@@ -14,3 +14,7 @@ Si, al pushear los cambios todos los integrantes pueden verlos.
 
 d-¿De qué forma se comunicaron ustedes?
 Nos comunicamos mediante discord
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+La mejor forma de comunicacion es atravez de los comentarios detallados al momento
+de hacer commits y manteniendo un control y planificacion de desarrollo atravez de proyects 
